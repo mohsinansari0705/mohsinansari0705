@@ -1,3 +1,5 @@
+![logo](https://github.com/mohsinansari0705/mohsinansari0705/blob/main/Mohsin_Banner.png)
+
 <h1 align="center">Hi 👋, I'm Mohsin Ansari</h1>
 <h3 align="center">A passionate Machine learning & Data Science learner</h3>
 
