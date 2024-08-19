@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Mohsin Ansari</h1>
 <h3 align="center">A passionate Machine learning & Data Science learner</h3>
 
-<img align="right" alt="coding" width="200" src="https://github.com/user-attachments/assets/b7b04b70-0029-4b3f-b800-a01b0aefe8a3">
+<img align="right" alt="coding" width="500" height="320" src="https://raw.githubusercontent.com/gist/vininjr/d29bb07bdadb41e4b0923bc8fa748b1a/raw/88f20c9d749d756be63f22b09f3c4ac570bc5101/programming.gif">
 
 <p align="left">  <img src="https://komarev.com/ghpvc/?username=mohsinansari0705&label=Profile%20views&color=0e75b6&style=flat" alt="mohsinansari0705" /> </p>
 
