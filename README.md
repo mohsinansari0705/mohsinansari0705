@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Mohsin Ansari</h1>
 <h3 align="center">A passionate Machine learning & Data Science learner</h3>
 
-<img align="right" alt="coding" width="500" src="https://github.com/user-attachments/assets/b7b04b70-0029-4b3f-b800-a01b0aefe8a3">
+<img align="right" alt="coding" width="400" src="https://github.com/user-attachments/assets/b7b04b70-0029-4b3f-b800-a01b0aefe8a3">
 
 <p align="left">  <img src="https://komarev.com/ghpvc/?username=mohsinansari0705&label=Profile%20views&color=0e75b6&style=flat" alt="mohsinansari0705" /> </p>
 
@@ -42,6 +42,8 @@
 <a href="https://www.docker.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original-wordmark.svg" alt="docker" width="40" height="40"/></a>
 </p>
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=mohsinansari0705&" alt="mohsinansari0705" />&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=mohsinansari0705&show_icons=true&locale=en" alt="mohsinansari0705" /></p>
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=mohsinansari0705&" alt="mohsinansari0705" /></p>p>
+  
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=mohsinansari0705&show_icons=true&locale=en" alt="mohsinansari0705" /></p>
 
 <p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=mohsinansari0705&show_icons=true&locale=en&layout=compact" alt="mohsinansari0705" /></p>
